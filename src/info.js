@@ -12,9 +12,9 @@ function render() {
    <div class="info-container">
        <div class="info-container-header">
            <h3>${pageProduct.name}</h3>
-           <p>Thương hiệu doncle & banana</p>
+           <p>Sản phẩm đến từ thương hiệu nổi tiếng trên toàn thế giới</p>
        </div>
-       <p class="discount"><i class="fas fa-tag"></i> Giảm giá 0.1%</p>
+       <p class="discount"><i class="fas fa-tag"></i> Giảm giá 5%</p>
        <h3 class="price">${pageProduct.price} đ</h3>             
        <div class="info-container-footer">
            <div class="pro-pic">
